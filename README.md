@@ -6,7 +6,7 @@
   
   - 🔭 I’m a Smart Contract Auditor, Threat-Intel | DM for low budget high quality audits
   - 🌱 I’m currently learning Machine Learning, and Building EVM
-  - 💬 Ask me about [web3](https://youtube.com/@PatrickAlphaC)
+  - 💬 Ask me about [web3](https://youtube.com/)
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My name start with A  "A means ALL"
   
